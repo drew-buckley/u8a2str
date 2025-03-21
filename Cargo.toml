@@ -1,0 +1,8 @@
+[package]
+name = "u8a2str"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0.97"
+argh = "0.1.13"
